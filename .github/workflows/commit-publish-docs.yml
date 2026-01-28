@@ -9,7 +9,11 @@ on:
       - "resources/**"
       - "mkdocs.yml"
       - "requirements.txt"
-
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 jobs:
   deploy_docs:
     name: Deploy docs
