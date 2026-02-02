@@ -6,8 +6,8 @@ List of training materials related to the practical implementation of the FAIR-b
 
  * [FAIR-by-Design Methodology course on the Skills4EOSC learning platform](https://learning.skills4eosc.eu/course/view.php?id=19)
     * recordings are available only to project partners
- * [FAIR-by-Design Methodology Training of Trainers learning content in the form of Git Pages](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/)
- * [FAIR-by-Design Methodology GitHub resources](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT)
+ * [FAIR-by-Design Methodology Training of Trainers learning content at UCPH in the form of Git Pages](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/)
+ * [FAIR-by-Design Methodology GitHub resources developed by the Skills4EOSC project](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT)
  
 
 ## Template Repository
@@ -17,8 +17,8 @@ List of training materials related to the practical implementation of the FAIR-b
 
 ## Microlearning Unit
 
-* [the FAIR-by-Design methodology microlearning unit provides a quick how-to for each methodology steps in a tool neutral manner](https://fair-by-design-methodology.github.io/microlearning/latest/)
-* [microlearning unit repository](https://github.com/FAIR-by-Design-Methodology/microlearning)
+* [the FAIR-by-Design methodology microlearning tailored to UCPH provides a quick how-to for each methodology steps in a tool neutral manner](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/)
+* [microlearning unit repository developed by Skills4EOSC](https://github.com/FAIR-by-Design-Methodology/microlearning)
 
 ## FAIR-by-Design Training at the IDCC'24 workshop
 
