@@ -17,7 +17,7 @@ List of training materials related to the practical implementation of the FAIR-b
 
 ## Microlearning Unit
 
-* [the FAIR-by-Design methodology microlearning tailored to UCPH provides a quick how-to for each methodology steps in a tool neutral manner](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/)
+* [The FAIR-by-Design methodology microlearning tailored to UCPH provides a quick how-to for each methodology steps in a tool neutral manner](https://fairbydesign-ucph.github.io/Fair-by-design-methodology-microlearning-site-UCPH/latest/)
 * [The original microlearning unit repository developed by Skills4EOSC](https://github.com/FAIR-by-Design-Methodology/microlearning)
 
 ## FAIR-by-Design Training at the IDCC'24 workshop
