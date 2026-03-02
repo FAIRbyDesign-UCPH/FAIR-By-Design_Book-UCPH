@@ -6,7 +6,7 @@ author: Skills4EOSC T2.3
 To keep up with the ever-changing environment, as well as the technological changes, continual improvement is considered to be one of the crucial phases in the learning materials development process. The implementation of continuous improvement increases the possibility to deliver successful training and produce adequate, accurate, up-to-date and high-quality learning materials. 
 
 <figure markdown>
-  ![Figure 15 Continual Improvement Implementation](resources/4 - FAIR-by-design learning materials creation/4.1 - Workflow stages description/attachments/improvement.png)
+  ![Figure 15 Continual Improvement Implementation](./attachments/improvement.png)
   <figcaption>Fig. 15 - Continual Improvement Implementation</figcaption>
 </figure>
 
