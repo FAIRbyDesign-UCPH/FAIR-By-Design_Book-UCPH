@@ -39,6 +39,11 @@
     * Added a separate page that provides links to all related materials in one place
     * Added information on the developed MVS profiles catalogue and their link to the methodology
 
+??? info "version 1.6-UCPH notes"
+    * The content has been adapted to the University of Copenhagen
+    * Information about MVS and fitting content to requirements of Skills4EOSC learning platform has been removed
+    * All links between the FAIR by design microlearning site and the Train-the-Trainers are redirected to UCPH content
+    
 ## Quick start
 
 If you don't have time to go through the whole methodology and would like to get an overview of the steps and jump through the main points use the [following interactive map](./imagemap.md).
@@ -52,9 +57,8 @@ If you don't have time to go through the whole methodology and would like to get
 We are constantly working on improving the FAIR-by-Design methodology and its related training materials. You can help us in our improvement efforts by providing your comments and suggestions. Just choose one or more of the following possibilities to contribute to this work:
 
 * Fill out the [always open EU Survey form](https://ec.europa.eu/eusurvey/runner/FAIR-by-Design_Open_Survey)
-* [Create an issue on GitHub](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/issues)
-* [Create a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of [the repository that holds the content of these pages](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book), make your suggestions and changes and then propose them back to the upstream repository.
-* [Simply get in touch with us via email](mailto:sonja.filiposka@finki.ukim.mk)
+* [Create a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of [the original repository that holds the content of these pages](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book), make your suggestions and changes and then propose them back to the upstream repository.
+* [Simply get in touch with us via email](mailto:lowi@kb.dk)
 
 
 ## Copyright Notice
@@ -64,5 +68,8 @@ We are constantly working on improving the FAIR-by-Design methodology and its re
 This work by Parties of the Skills4EOSC Project is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). The Skills4EOSC project is co-funded by the European Union Horizon Europe programme under grant n° 101058527 and by UK Research and Innovation (UKRI) under the UK government's Horizon Europe funding guarantee under grant n° 10040140.
 
 
-## Cite as
+## Cite as the original content as:
 Filiposka, Sonja, Green, Dominique, Mishev, Anastas, Kjorveziroski, Vojdan, Corleto, Andrea, Napolitano, Eleonora, Paolini, Gabriela, Di Giorgio, Sara, Janik, Joanna, Schirru, Luca, Gingold, Arnaud, Hadrossek, Christine, Souyioultzoglou, Irakleitos, Leister, Carolin, & Lazzeri, Emma. (2023). Skills4EOSC D2.2 Methodology for FAIR-by-Design Learning Materials (GitBook). Zenodo. [https://zenodo.org/doi/10.5281/zenodo.8305539](https://zenodo.org/doi/10.5281/zenodo.8305539)
+
+## Cite the UCPH adapted content as:
+Wildgaard, L., & Derksen, B. (2026). FAIR-by-Design Learning Materials at UCPH (GitBook). Adapted from Filiposka, S., Green, D., Mishev, A., Kjorveziroski, V., Corleto, A., Napolitano, E., Paolini, G., Di Giorgio, S., Janik, J., Schirru, L., Gingold, A., Hadrossek, C., Souyioultzoglou, I., Leister, C., & Lazzeri, E. (2023). Skills4EOSC D2.2 Methodology for FAIR-by-Design Learning Materials (GitBook).
