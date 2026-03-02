@@ -5,7 +5,7 @@ List of training materials related to the practical implementation of the FAIR-b
 ## Complete FAIR-by-Design Methodology Training of Trainers
 
  * [FAIR-by-Design Methodology course on the Skills4EOSC learning platform](https://learning.skills4eosc.eu/course/view.php?id=19)
-    * recordings are available only to project partners
+    * recordings are available only to project partners. You may have to create a profile to gain access
  * [FAIR-by-Design Methodology Training of Trainers learning content at UCPH in the form of Git Pages](https://fairbydesign-ucph.github.io/FAIR-by-Design-Training-of-Trainers-UCPH/latest/)
  * [FAIR-by-Design Methodology GitHub resources developed by the Skills4EOSC project](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT)
  
